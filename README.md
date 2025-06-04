@@ -3,7 +3,7 @@
 🚀 **Data Analyst | BI Engineer | Creative Technologist**  
 💡 I turn messy data into sharp, actionable insights and I do it with heart, hustle, and a creative edge.  
 
----
+
 
 ## 💼 About Me
 
@@ -13,7 +13,7 @@ Whether it's building **readmission prediction models** for hospitals, optimizin
 
 I believe in **data with purpose, design with intent**, and storytelling that speaks to both business leaders and engineers alike.
 
----
+
 
 ## 🧠 I Think In
 
